@@ -1,0 +1,10 @@
+﻿  alignment.cpp
+  Allineamento_Globale_Sequenziale_v7_finale.cpp
+C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale_v7_finale.cpp(304,69): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+  from_source.cpp
+  optimal_path.cpp
+  print_library.cpp
+  read_string.cpp
+  to_sink.cpp
+  Generazione del codice in corso...
+  Allineamento_Globale_Sequenziale.vcxproj -> C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\Debug\Allineamento_Globale_Sequenziale.exe

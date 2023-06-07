@@ -1,0 +1,45 @@
+﻿  Allineamento_Globale_Sequenziale_v7_finale.cpp
+C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale_v7_finale.cpp(362,66): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale_v7_finale.cpp(453,43): warning C4244: '=': conversione da '_Rep' a 'float'. Possibile perdita di dati.
+          with
+          [
+              _Rep=__int64
+          ]
+  from_source.cpp
+  optimal_path.cpp
+C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale\optimal_path.cpp(177,37): warning C4244: '=': conversione da '__int64' a 'int'. Possibile perdita di dati.
+C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale\optimal_path.cpp(192,54): warning C4244: '=': conversione da '__int64' a 'int'. Possibile perdita di dati.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(681,47): warning C4244: 'inizializzazione': conversione da '_Ty' a '_Objty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(708): message : vedere il riferimento all'istanza 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,__int64>(_Alloc &,_Objty *const ,__int64 &&)' della funzione modello di cui è in corso la compilazione
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(713): message : vedere il riferimento all'istanza 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,__int64>(_Alloc &,_Objty *const ,__int64 &&)' della funzione modello di cui è in corso la compilazione
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(726): message : vedere il riferimento all'istanza 'void std::vector<int,std::allocator<int>>::_Emplace_back_with_unused_capacity<_Ty>(_Ty &&)' della funzione modello di cui è in corso la compilazione
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale\optimal_path.cpp(21): message : vedere il riferimento all'istanza 'void std::vector<int,std::allocator<int>>::emplace_back<__int64>(__int64 &&)' della funzione modello di cui è in corso la compilazione
+  print_library.cpp
+C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale\print_library.cpp(12,25): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  to_sink.cpp
+  Generazione del codice in corso...
+  Allineamento_Globale_Sequenziale.vcxproj -> C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\x64\Debug\Allineamento_Globale_Sequenziale.exe

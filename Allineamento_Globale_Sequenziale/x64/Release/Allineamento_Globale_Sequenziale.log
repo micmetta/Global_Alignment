@@ -1,0 +1,13 @@
+﻿  Allineamento_Globale_Sequenziale_v7_finale.cpp
+C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale_v7_finale.cpp(362,66): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale\Allineamento_Globale_Sequenziale_v7_finale.cpp(453,43): warning C4244: '=': conversione da '_Rep' a 'float'. Possibile perdita di dati.
+          with
+          [
+              _Rep=__int64
+          ]
+  Generazione codice in corso...
+  2 of 503 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  Allineamento_Globale_Sequenziale.vcxproj -> C:\Users\miky9\source\repos\Allineamento_Globale_Sequenziale\x64\Release\Allineamento_Globale_Sequenziale.exe
